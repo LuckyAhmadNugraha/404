@@ -79,8 +79,8 @@ OOOOOOOOOOOOOOOOOP
   %%%%%%%%%%%%%%
  %%%%%% \033[1;95mHack-fb\033[1;97m
   ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
- ▼ Autor  : Dirgantara 
- ▼ Suppor : Mr.D4NG3R
+ ▼ Autor  : UMC.KENZO_ID 
+ ▼ Suppor : Mr.D4NG3R ft Ucu Sangek
  ▼ Team   : 403-Forbidden Team
  ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 			"""
