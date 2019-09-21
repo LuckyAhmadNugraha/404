@@ -115,7 +115,7 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 		
-##### LOGIN #####
+##### LOGIN KONTOL #####
 #================#
 def login():
 	os.system('reset')
@@ -125,7 +125,7 @@ def login():
 	except (KeyError,IOError):
 		os.system('reset')
 		print logo
-		print('\033[1;91m[☆] \033[1;92mLOGIN AKUN FACEBOOK \033[1;91m[☆]')
+		print('\033[1;91m[☆] \033[1;92mLOGIN AKUN FACEBOOK JABLAY \033[1;91m[☆]')
 		id = raw_input('\033[1;91m[+] \033[1;36mID\033[1;97m|\033[1;96mEmail\033[1;97m \033[1;91m:\033[1;92m ')
 		pwd = getpass.getpass('\033[1;91m[+] \033[1;36mPassword \033[1;91m:\033[1;92m ')
 		tik()
