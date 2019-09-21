@@ -8,8 +8,8 @@ clear
 printf "\e[1;92m                ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬● \e[0m\n"
 printf "\e[1;92m              .::.\e[0m\e[1;77m 403-Forbidden Team \e[1;92m.::.\e[0m\n"
 printf " ╔═══════════════════════════════════════════════════╗ \e[0m\n"
-printf "\e[1;77m ║\e[1;92m Author   : \e[1;77m Ucu sangek & Mr.D4NG3R                \e[0m\e[1;77m║\e[0m\n"
-printf "\e[1;77m ║\e[1;92m Team     : \e[1;77m 403forbiddenTeam                      \e[0m\e[1;77m║\e[0m\n"
+printf "\e[1;77m ║\e[1;92m Author   : \e[1;77m UMC.KENZO_ID 4FT                \e[0m\e[1;77m║\e[0m\n"
+printf "\e[1;77m ║\e[1;92m Team     : \e[1;77m 403 Forbidden Team                      \e[0m\e[1;77m║\e[0m\n"
 printf "\e[1;77m ║\e[1;92m github   : \e[1;77m https://github.com/403-forbidden-Team \e[0m\e[1;77m║\e[0m\n"
 printf " ╚═══════════════════════════════════════════════════╝ \e[  \n"
 printf "\e[1;92m[\e[0m\e[1;77m 1 \e[0m\e[1;92m]\e[1;93m Install Paket \e[0m\n"
@@ -24,7 +24,7 @@ printf "\e[1;92m[\e[0m\e[1;77m 9 \e[0m\e[1;92m]\e[1;93m Ubah Tampilan Termux spe
 printf "\e[1;92m[\e[0m\e[1;77m 10\e[0m\e[1;92m]\e[1;93m Install Sqlmap  \e[0m  \n"
 printf "\e[1;92m[\e[0m\e[1;77m 11\e[0m\e[1;92m]\e[1;93m Mini hack fb target  \e[0m  \n"
 printf "\n"
-echo "Install Paket dngan pilih no 1 biar gk trjadi eror" | lolcat -a -d 50
+echo "Install Paket Bujank Dengan Pilih No 1 Biar Gk Terjadi Error Kaya Muka Luh" | lolcat -a -d 50
 printf "\n"
 read -p $'\e[1;92m[*] Pilih nomor : \e[0m' pilih
 
